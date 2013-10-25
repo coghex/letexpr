@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mLetExprSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mparser [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly parse simple expressions[0m[0m
+[0m[[0minfo[0m] [0m[32mparser [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly parse left to right[0m[0m
+[0m[[0minfo[0m] [0m[32mparser [0m[0m
+[0m[[0minfo[0m] [0m[32m- should respect precedence[0m[0m
+[0m[[0minfo[0m] [0m[32mparser [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly parse let expressions[0m[0m
+[0m[[0minfo[0m] [0m[32meval [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly evaluate simple arithmetic in the AST[0m[0m
+[0m[[0minfo[0m] [0m[32meval [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly evaluate let expressions in the AST[0m[0m
+[0m[[0minfo[0m] [0m[32mevaluate [0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly parse and evaluate let expressions[0m[0m

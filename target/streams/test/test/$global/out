@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(LetExprSpec, sbt.SubclassFingerprintWrapper@3ae2ce62, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaTest not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 7, Failed 0, Errors 0, Passed 7[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	LetExprSpec[0m
